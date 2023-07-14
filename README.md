@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Creíamos que la inteligencia artificial haría inteligentes a las máquinas, pero lo que verdaderamente está sucediendo es que está potenciando la inteligencia de los humanos.
+### Creíamos que la inteligencia artificial haría inteligentes a las máquinas, pero lo que verdaderamente está sucediendo es que está potenciando la inteligencia de los humanos.
 
 
 <!--
