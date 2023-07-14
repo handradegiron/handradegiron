@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-We believed that artificial intelligence would make machines intelligent, but what is really happening is that it is enhancing the intelligence of humans.
+Creíamos que la inteligencia artificial haría inteligentes a las máquinas, pero lo que verdaderamente está sucediendo es que está potenciando la inteligencia de los humanos.
+
 
 <!--
 **handradegiron/handradegiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
