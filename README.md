@@ -1,7 +1,6 @@
-Yo creía que la inteligencia artificial haría inteligentes a las máquinas, pero lo que verdaderamente está sucediendo es que está potenciando la inteligencia de los humanos.
+I used to believe that artificial intelligence would make machines intelligent, but what is truly happening is that it is enhancing human intelligence.
 
-Hola soy Héctor y mi trabajo actualmente se centra en la investigación en el campo de la inteligencia artificial y el desarrollo de soluciones tecnológicas que buscan abordar problemas y retos sociales.
-
+Hi, I’m Héctor, and my current work focuses on research in the field of artificial intelligence and the development of technological solutions aimed at addressing social problems and challenges.
  
 <!--
 **handradegiron/handradegiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
